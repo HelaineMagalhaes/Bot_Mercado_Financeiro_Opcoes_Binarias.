@@ -23,3 +23,8 @@
 * Autenticação: Autentique com segurança a Pocket Option para garantir acesso seguro e autorizado via API.
 * Trades: Os sinais são executaados de acordo com um padrão de Five candles com confluência em duas médias móveis Ema 9 e Ema 22.
 * Gerenciamento de Risco: A operação no mercado aberto ou em OTC é realizada uma de cada vez, para que o resultado seja lido e assim aplicado o gerenciamento de risco, conforme imputs responsáveis, que evitam a quebra da banca ou a perda total do capital.
+
+## Disclaimer
+* As informações contidas neste código (bot) não constituem, nem tampouco devem ser interpretadas como um conselho, recomendação, oferta e/ou solicitação para compra ou venda de ativos, ações, commodities e/ou de quaisquer outros instrumentos financeiros.
+* A rentabilidade obtida no passado não representa garantia de rentabilidade futura. 
+* Ao investidor, é recomendado formalmente a leitura do mercado, o estudo e domínio sobre análise técnica, bem como, uma enlace com o seu gerenciamento e apetite a riscos.
