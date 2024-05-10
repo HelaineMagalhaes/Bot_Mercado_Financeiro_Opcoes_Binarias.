@@ -28,3 +28,8 @@
 * As informações contidas neste código (bot) não constituem, nem tampouco devem ser interpretadas como um conselho, recomendação, oferta e/ou solicitação para compra ou venda de ativos, ações, commodities e/ou de quaisquer outros instrumentos financeiros.
 * A rentabilidade obtida no passado não representa garantia de rentabilidade futura. 
 * Ao investidor, é recomendado formalmente a leitura do mercado, o estudo e domínio sobre análise técnica, bem como, uma enlace com o seu gerenciamento e apetite a riscos.
+
+## Desafio Alura + Google
+* Os códigos foram gerados no Gemini, a partir de imputs técnicos do mercado financeiro sob meu domínio de conhecimento, ou seja, como eu opero manualmente.
+* Algumas partes do código apresentam necessidades de correção para funcionar efetivamente e meu nível de conhecimento sobre Python sendo quase inexistente e por ser meu primeiro contato com a linguagem até aqui, desta forma, não fui capaz, de no tempo hábil, fazer buscas, estudos e realizar tais correções.
+* O código apresentado é um esboço do que gostaria de ter feito. Em minha mente consigo vislumbrar isso funcionando, mas claro, terei que me debruçar sobre a linguagem, aprender os comandos para identificar os erros e corrigi-los, uma vez que usando o Gemini, tentei corrigir e deixar de fato funcional, mas isso não foi possível, desta forma, fica aqui, como forma de registro da minha participação e estusiasmo, este projeto inacabado de um ideia de geração de renda para o uso diário em cenários que minam a possiblidade de fúria ou ações sobre impacto emocional nos trades, que é uma das maiores dores dos profissionais da área, com essa futura automação.
