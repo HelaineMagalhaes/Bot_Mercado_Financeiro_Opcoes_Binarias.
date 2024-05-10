@@ -1,0 +1,1 @@
+# Bot_Mercado_Financeiro_Opcoes_Binarias.
