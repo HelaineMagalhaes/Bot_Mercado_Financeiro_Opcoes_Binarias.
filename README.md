@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Bot_Mercado_Financeiro_Opcoes_Binarias.
+<h1 align="center">Bot_Mercado_Financeiro_Opcoes_Binarias
  
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/taisprestes01/Pocket-Option-API/assets/108246691/507d57d6-8c7b-42b5-9dd8-d0b5db690f52" alt="Markdownify" width="400"></a>
